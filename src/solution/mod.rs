@@ -4,5 +4,6 @@ mod s0597_find_lhs;
 mod s1394_find_lucky;
 mod s2099_find_subseq_k_largest_sum;
 mod s2566_min_max_diff;
+mod s2643_row_and_max_ones;
 mod s3304_kth_character;
 mod s3330_possible_string_count;
