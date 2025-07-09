@@ -9,3 +9,4 @@ mod s2566_min_max_diff;
 mod s2643_row_and_max_ones;
 mod s3304_kth_character;
 mod s3330_possible_string_count;
+mod s3439_max_free_time;
