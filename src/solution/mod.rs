@@ -2,6 +2,7 @@ mod s0333_largest_bst_subtree;
 mod s0425_word_squares;
 mod s0501_find_mode_bin_tree;
 mod s0597_find_lhs;
+mod s0907_sum_subarray_mins;
 mod s1290_get_decimal_value;
 mod s1358_max_events;
 mod s1394_find_lucky;
