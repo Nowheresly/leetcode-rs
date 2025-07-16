@@ -1,6 +1,7 @@
 mod s0333_largest_bst_subtree;
 mod s0425_word_squares;
 mod s0501_find_mode_bin_tree;
+mod s0581_find_unsorted_subarray;
 mod s0597_find_lhs;
 mod s0654_construct_maximum_binary_tree;
 mod s0907_sum_subarray_mins;
