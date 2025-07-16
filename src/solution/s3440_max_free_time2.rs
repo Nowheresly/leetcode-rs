@@ -21,7 +21,7 @@ impl Solution {
         for i in 0..n {
             let left = if i == 0 { 0 } else { end_time[i - 1] };
             let right = if i == n - 1 { event_time } else { start_time[i + 1] };
-            if (q[i]) {
+            if q[i] {
                 ret = ret.max(right - left);
             } else {
                 ret = ret.max(right - left - (end_time[i] - start_time[i]));

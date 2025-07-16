@@ -2,7 +2,7 @@ pub struct Solution {}
 
 impl Solution {
     pub fn maximum_length(nums: Vec<i32>) -> i32 {
-        let mut ret = 0;
+        let mut ret;
         let mut count_even = 0;
         let mut count_odd = 0;
         for num in nums.iter() {

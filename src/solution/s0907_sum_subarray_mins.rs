@@ -1,4 +1,3 @@
-use std::collections::HashMap;
 
 pub struct Solution {}
 
@@ -32,9 +31,9 @@ impl Solution {
         }
         let mut result:i64 = 0;
         for i in 0..n {
-            let mut left = i as i32 - left[i]; // Calculate the number of elements to the left
-            let mut right = right[i] - i as i32; // Calculate the number of elements to the right
-            let mut add: i64 = ((left as i64 * right as i64 ) % 1_000_000_007 * arr[i] as i64);
+            let left = i as i32 - left[i]; // Calculate the number of elements to the left
+            let right = right[i] - i as i32; // Calculate the number of elements to the right
+            let add: i64 = (left as i64 * right as i64 ) % 1_000_000_007 * arr[i] as i64;
             result = (result + add) % 1_000_000_007;
             result %= 1_000_000_007;
         }
