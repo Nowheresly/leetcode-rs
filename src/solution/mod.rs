@@ -6,6 +6,7 @@ mod s0907_sum_subarray_mins;
 mod s1290_get_decimal_value;
 mod s1358_max_events;
 mod s1394_find_lucky;
+mod s1475_final_prices;
 mod s1865_find_sum_pairs;
 mod s2099_find_subseq_k_largest_sum;
 mod s2410_match_players_and_trainers;
