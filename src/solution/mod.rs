@@ -1,3 +1,4 @@
+mod s0033_search;
 mod s0333_largest_bst_subtree;
 mod s0425_word_squares;
 mod s0501_find_mode_bin_tree;
