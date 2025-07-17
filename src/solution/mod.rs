@@ -18,6 +18,7 @@ mod s2566_min_max_diff;
 mod s2643_row_and_max_ones;
 mod s3136_is_valid;
 mod s3201_maximum_length;
+mod s3202_maximum_length;
 mod s3205_max_score;
 mod s3304_kth_character;
 mod s3330_possible_string_count;
