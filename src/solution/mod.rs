@@ -7,6 +7,7 @@ mod s0581_find_unsorted_subarray;
 mod s0597_find_lhs;
 mod s0654_construct_maximum_binary_tree;
 mod s0907_sum_subarray_mins;
+mod s0946_validate_stack_sequences;
 mod s1290_get_decimal_value;
 mod s1358_max_events;
 mod s1394_find_lucky;
