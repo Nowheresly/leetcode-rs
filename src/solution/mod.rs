@@ -28,3 +28,4 @@ mod s3304_kth_character;
 mod s3330_possible_string_count;
 mod s3439_max_free_time;
 mod s3440_max_free_time2;
+mod s3487_max_sum;
