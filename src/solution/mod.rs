@@ -20,6 +20,7 @@ mod s2104_sub_array_ranges;
 mod s2163_minimum_difference;
 mod s2210_count_hill_valley;
 mod s2410_match_players_and_trainers;
+mod s2419_longest_subarray;
 mod s2566_min_max_diff;
 mod s2643_row_and_max_ones;
 mod s3136_is_valid;
