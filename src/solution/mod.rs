@@ -14,6 +14,7 @@ mod s1394_find_lucky;
 mod s1475_final_prices;
 mod s1865_find_sum_pairs;
 mod s1957_make_fancy_string;
+mod s2044_count_max_or_subsets;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
 mod s2163_minimum_difference;
