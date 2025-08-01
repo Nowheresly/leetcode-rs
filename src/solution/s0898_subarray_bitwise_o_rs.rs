@@ -4,10 +4,10 @@ pub struct Solution {}
 
 impl Solution {
     pub fn subarray_bitwise_o_rs(arr: Vec<i32>) -> i32 {
-        let mut set:HashSet<i32> = std::collections::HashSet::new();
-        let mut cur = std::collections::HashSet::new();
+        let mut set:HashSet<i32> = HashSet::new();
+        let mut cur = HashSet::new();
         for i in arr {
-            let mut next = std::collections::HashSet::new();
+            let mut next = HashSet::new();
             next.insert(i);
             for &j in &cur {
                 next.insert(i | j);
