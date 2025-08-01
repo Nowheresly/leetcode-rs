@@ -1,4 +1,5 @@
 mod s0033_search;
+mod s0118_generate;
 mod s0333_largest_bst_subtree;
 mod s0402_remove_kdigits;
 mod s0425_word_squares;
