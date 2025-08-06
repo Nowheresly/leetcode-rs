@@ -12,6 +12,7 @@ mod s0898_subarray_bitwise_o_rs;
 mod s0904_total_fruit;
 mod s0907_sum_subarray_mins;
 mod s0946_validate_stack_sequences;
+mod s1208_equal_substring;
 mod s1290_get_decimal_value;
 mod s1358_max_events;
 mod s1394_find_lucky;
