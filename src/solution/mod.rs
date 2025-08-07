@@ -1,3 +1,4 @@
+mod s0001_two_sum;
 mod s0033_search;
 mod s0118_generate;
 mod s0314_vertical_order;
