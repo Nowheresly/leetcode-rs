@@ -9,7 +9,7 @@ impl Solution {
             let val1 = nums[i];
             for j in (i+1)..nums.len() {
                 let val2 = nums[j];
-                if (val1 + val2 == target) {
+                if val1 + val2 == target {
                     ret.push(i as i32);
                     ret.push(j as i32);
                     return ret;
@@ -17,7 +17,7 @@ impl Solution {
             }
         }
 
-        return ret;
+        ret
     }
 }
 
