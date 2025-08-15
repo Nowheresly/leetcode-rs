@@ -6,6 +6,7 @@ mod s0314_vertical_order;
 mod s0326_is_power_of_three;
 mod s0333_largest_bst_subtree;
 mod s0402_remove_kdigits;
+mod s0405_to_hex;
 mod s0425_word_squares;
 mod s0501_find_mode_bin_tree;
 mod s0581_find_unsorted_subarray;
