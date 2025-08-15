@@ -11,6 +11,7 @@ pub struct TreeNode {
 
 impl TreeNode {
     #[inline]
+    #[allow(unused)]
     pub fn new(val: i32) -> Self {
         TreeNode {
             val,

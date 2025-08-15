@@ -24,7 +24,7 @@ impl Data {
             cur.remove(cur.len() - 1);
             return;
         }
-        let next = self.find_next(words, cur);
+        let next = self.find_next(cur);
         for ne in next {
             cur.push(ne.to_string());
             self.dfs(words, cur, start);
@@ -32,7 +32,7 @@ impl Data {
         }
     }
 
-    fn find_next(&mut self, words: &Vec<String>, cur: &Vec<String>) -> Vec<String> {
+    fn find_next(&mut self, cur: &Vec<String>) -> Vec<String> {
         let mut start = "";
         let mut tmp = String::new();
         if cur.len() == 1 {

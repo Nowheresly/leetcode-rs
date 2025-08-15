@@ -1,9 +1,10 @@
 
 pub struct Solution {}
 
+const MOD: i64 = 1_000_000_007;
+
 impl Solution {
     pub fn product_queries(n: i32, queries: Vec<Vec<i32>>) -> Vec<i32> {
-        let MOD = 1_000_000_007;
         let mut powers = vec![];
         for i in 0..30 {
             if (n & (1 << i)) != 0 {

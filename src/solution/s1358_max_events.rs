@@ -34,7 +34,7 @@ impl Solution {
             }
 
             // If there are any events in the priority queue, attend the one that ends the earliest
-            if let Some(&end) = pq.peek() {
+            if let Some(&_end) = pq.peek() {
                 pq.pop();
                 ret += 1;
             }

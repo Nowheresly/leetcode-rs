@@ -3,7 +3,7 @@ pub struct Solution {}
 impl Solution {
     pub fn max_sum(nums: Vec<i32>) -> i32 {
         let mut set = std::collections::HashSet::new();
-        let mut max = nums.iter().max().unwrap().clone();
+        let max = nums.iter().max().unwrap().clone();
         for num in nums {
             if num > 0 {
                 set.insert(num);
