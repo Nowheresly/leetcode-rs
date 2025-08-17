@@ -14,6 +14,7 @@ mod s0581_find_unsorted_subarray;
 mod s0597_find_lhs;
 mod s0654_construct_maximum_binary_tree;
 mod s0771_num_jewels_in_stones;
+mod s0837_new21_game;
 mod s0898_subarray_bitwise_o_rs;
 mod s0904_total_fruit;
 mod s0907_sum_subarray_mins;
