@@ -2,6 +2,7 @@ mod s0001_two_sum;
 mod s0033_search;
 mod s0118_generate;
 mod s0231_power_of_two;
+mod s0258_add_digits;
 mod s0314_vertical_order;
 mod s0326_is_power_of_three;
 mod s0333_largest_bst_subtree;
