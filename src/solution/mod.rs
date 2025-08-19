@@ -37,6 +37,7 @@ mod s2104_sub_array_ranges;
 mod s2163_minimum_difference;
 mod s2210_count_hill_valley;
 mod s2264_largest_good_integer;
+mod s2348_zero_filled_subarray;
 mod s2410_match_players_and_trainers;
 mod s2411_smallest_subarrays;
 mod s2419_longest_subarray;
