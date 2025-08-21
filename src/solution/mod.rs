@@ -30,6 +30,7 @@ mod s1323_max69_number;
 mod s1358_max_events;
 mod s1394_find_lucky;
 mod s1475_final_prices;
+mod s1504_num_sub_mat;
 mod s1582_num_special;
 mod s1865_find_sum_pairs;
 mod s1957_make_fancy_string;
