@@ -49,6 +49,7 @@ mod s2566_min_max_diff;
 mod s2643_row_and_max_ones;
 mod s2787_number_of_ways;
 mod s3136_is_valid;
+mod s3195_minimum_area;
 mod s3201_maximum_length;
 mod s3202_maximum_length;
 mod s3205_max_score;
