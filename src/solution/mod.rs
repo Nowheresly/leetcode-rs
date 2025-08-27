@@ -1,4 +1,5 @@
 mod s0001_two_sum;
+mod s0009_is_palindrome;
 mod s0033_search;
 mod s0118_generate;
 mod s0231_power_of_two;
