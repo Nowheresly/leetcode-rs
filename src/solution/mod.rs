@@ -29,6 +29,7 @@ mod s1208_equal_substring;
 mod s1277_count_square;
 mod s1290_get_decimal_value;
 mod s1323_max69_number;
+mod s1329_diagonal_sort;
 mod s1358_max_events;
 mod s1394_find_lucky;
 mod s1475_final_prices;
