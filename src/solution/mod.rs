@@ -27,6 +27,7 @@ mod s1166_file_system;
 mod s1198_smallest_common_element;
 mod s1208_equal_substring;
 mod s1277_count_square;
+mod s1182_shortest_distance_color;
 mod s1290_get_decimal_value;
 mod s1323_max69_number;
 mod s1329_diagonal_sort;
