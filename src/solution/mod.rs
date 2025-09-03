@@ -59,6 +59,7 @@ mod s2787_number_of_ways;
 mod s3000_area_of_max_diagonal;
 mod s3021_flower_game;
 mod s3025_number_of_pairs;
+mod s3027_number_of_pairs;
 mod s3136_is_valid;
 mod s3195_minimum_area;
 mod s3197_minimum_sum;
