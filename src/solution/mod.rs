@@ -74,4 +74,5 @@ mod s3440_max_free_time2;
 mod s3446_sort_matrix;
 mod s3477_num_of_unplaced_fruits;
 mod s3487_max_sum;
+mod s3495_min_operations;
 mod s3516_find_closest;
