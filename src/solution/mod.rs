@@ -77,3 +77,4 @@ mod s3477_num_of_unplaced_fruits;
 mod s3487_max_sum;
 mod s3495_min_operations;
 mod s3516_find_closest;
+mod s3674_min_operations;
