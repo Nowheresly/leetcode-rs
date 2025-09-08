@@ -26,6 +26,7 @@ mod s0907_sum_subarray_mins;
 mod s0946_validate_stack_sequences;
 mod s1133_largest_unique_number;
 mod s1166_file_system;
+mod s1196_max_number_of_apples;
 mod s1198_smallest_common_element;
 mod s1208_equal_substring;
 mod s1277_count_square;
