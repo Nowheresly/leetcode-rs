@@ -24,6 +24,7 @@ mod s0898_subarray_bitwise_o_rs;
 mod s0904_total_fruit;
 mod s0907_sum_subarray_mins;
 mod s0946_validate_stack_sequences;
+mod s1133_largest_unique_number;
 mod s1166_file_system;
 mod s1198_smallest_common_element;
 mod s1208_equal_substring;
