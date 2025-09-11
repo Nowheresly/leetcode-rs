@@ -62,6 +62,7 @@ mod s2438_product_queries;
 mod s2566_min_max_diff;
 mod s2643_row_and_max_ones;
 mod s2749_make_the_integer_zero;
+mod s2785_sort_vowels;
 mod s2787_number_of_ways;
 mod s3000_area_of_max_diagonal;
 mod s3021_flower_game;
