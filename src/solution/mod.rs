@@ -53,6 +53,7 @@ mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
 mod s2133_check_valid;
 mod s2163_minimum_difference;
+mod s2197_replace_non_coprimes;
 mod s2210_count_hill_valley;
 mod s2264_largest_good_integer;
 mod s2327_people_aware_of_secret;
