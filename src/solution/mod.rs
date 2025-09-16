@@ -27,6 +27,7 @@ mod s0946_validate_stack_sequences;
 mod s0966_spell_checker;
 mod s1018_prefixes_div_by_5;
 mod s1133_largest_unique_number;
+mod s1150_is_majority_element;
 mod s1166_file_system;
 mod s1196_max_number_of_apples;
 mod s1198_smallest_common_element;
