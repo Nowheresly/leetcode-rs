@@ -4,6 +4,7 @@ mod s0027_remove_element;
 mod s0033_search;
 mod s0037_solve_sudoku;
 mod s0118_generate;
+mod s0165_compare_version;
 mod s0231_power_of_two;
 mod s0258_add_digits;
 mod s0314_vertical_order;
