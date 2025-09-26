@@ -20,6 +20,7 @@ mod s0498_find_diagonal_order;
 mod s0501_find_mode_bin_tree;
 mod s0581_find_unsorted_subarray;
 mod s0597_find_lhs;
+mod s0611_triangle_number;
 mod s0654_construct_maximum_binary_tree;
 mod s0679_judge_point24;
 mod s0771_num_jewels_in_stones;
