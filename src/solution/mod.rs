@@ -31,6 +31,7 @@ mod s0904_total_fruit;
 mod s0907_sum_subarray_mins;
 mod s0946_validate_stack_sequences;
 mod s0966_spell_checker;
+mod s0976_largest_perimeter;
 mod s1018_prefixes_div_by_5;
 mod s1133_largest_unique_number;
 mod s1150_is_majority_element;
