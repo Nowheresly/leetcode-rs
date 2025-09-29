@@ -33,6 +33,7 @@ mod s0946_validate_stack_sequences;
 mod s0966_spell_checker;
 mod s0976_largest_perimeter;
 mod s1018_prefixes_div_by_5;
+mod s1039_min_score_triangulation;
 mod s1133_largest_unique_number;
 mod s1150_is_majority_element;
 mod s1166_file_system;
