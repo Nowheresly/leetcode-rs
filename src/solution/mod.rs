@@ -52,6 +52,7 @@ mod s1394_find_lucky;
 mod s1475_final_prices;
 mod s1493_longest_subarray;
 mod s1504_num_sub_mat;
+mod s1518_num_water_bottles;
 mod s1582_num_special;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
