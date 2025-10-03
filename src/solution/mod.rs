@@ -48,6 +48,7 @@ mod s1317_get_no_zero_integers;
 mod s1323_max69_number;
 mod s1329_diagonal_sort;
 mod s1358_max_events;
+mod s1360_days_between_dates;
 mod s1394_find_lucky;
 mod s1475_final_prices;
 mod s1493_longest_subarray;
