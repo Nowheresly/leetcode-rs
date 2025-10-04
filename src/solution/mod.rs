@@ -1,5 +1,6 @@
 mod s0001_two_sum;
 mod s0009_is_palindrome;
+mod s0011_max_area;
 mod s0027_remove_element;
 mod s0033_search;
 mod s0037_solve_sudoku;
