@@ -27,6 +27,7 @@ mod s0654_construct_maximum_binary_tree;
 mod s0679_judge_point24;
 mod s0759_employee_free_time;
 mod s0771_num_jewels_in_stones;
+mod s0778_swim_in_water;
 mod s0812_largest_triangle_area;
 mod s0837_new21_game;
 mod s0898_subarray_bitwise_o_rs;
