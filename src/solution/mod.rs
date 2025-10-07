@@ -55,6 +55,7 @@ mod s1358_max_events;
 mod s1360_days_between_dates;
 mod s1394_find_lucky;
 mod s1475_final_prices;
+mod s1488_avoid_flood;
 mod s1493_longest_subarray;
 mod s1504_num_sub_mat;
 mod s1518_num_water_bottles;
