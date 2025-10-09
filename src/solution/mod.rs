@@ -106,6 +106,7 @@ mod s3446_sort_matrix;
 mod s3477_num_of_unplaced_fruits;
 mod s3484_design_spreadsheet;
 mod s3487_max_sum;
+mod s3494_min_time;
 mod s3495_min_operations;
 mod s3005_max_frequency_elements;
 mod s3508_router;
