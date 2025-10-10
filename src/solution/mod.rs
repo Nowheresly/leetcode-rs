@@ -91,6 +91,7 @@ mod s3025_number_of_pairs;
 mod s3027_number_of_pairs;
 mod s3100_max_bottles_drunk;
 mod s3136_is_valid;
+mod s3147_maximum_energy;
 mod s3195_minimum_area;
 mod s3197_minimum_sum;
 mod s3201_maximum_length;
