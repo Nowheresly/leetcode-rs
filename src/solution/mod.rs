@@ -113,5 +113,6 @@ mod s3495_min_operations;
 mod s3005_max_frequency_elements;
 mod s3508_router;
 mod s3516_find_closest;
+mod s3539_magical_sum;
 mod s3541_max_freq_sum;
 mod s3674_min_operations;
