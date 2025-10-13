@@ -72,6 +72,7 @@ mod s2197_replace_non_coprimes;
 mod s2210_count_hill_valley;
 mod s2221_triangular_sum;
 mod s2264_largest_good_integer;
+mod s2273_remove_anagrams;
 mod s2300_successful_pairs;
 mod s2327_people_aware_of_secret;
 mod s2348_zero_filled_subarray;
