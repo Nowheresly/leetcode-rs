@@ -103,6 +103,7 @@ mod s3227_does_alice_win;
 mod s3304_kth_character;
 mod s3330_possible_string_count;
 mod s3349_has_increasing_subarrays;
+mod s3350_max_increasing_subarrays;
 mod s3408_task_manager;
 mod s3439_max_free_time;
 mod s3440_max_free_time2;
