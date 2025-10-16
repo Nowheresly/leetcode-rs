@@ -82,6 +82,7 @@ mod s2411_smallest_subarrays;
 mod s2419_longest_subarray;
 mod s2438_product_queries;
 mod s2566_min_max_diff;
+mod s2598_find_smallest_integer;
 mod s2643_row_and_max_ones;
 mod s2749_make_the_integer_zero;
 mod s2785_sort_vowels;
