@@ -120,3 +120,4 @@ mod s3516_find_closest;
 mod s3539_magical_sum;
 mod s3541_max_freq_sum;
 mod s3674_min_operations;
+mod s3003_max_partitions_after_operations;
