@@ -64,6 +64,7 @@ mod s1625_find_lex_smallest_string;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
 mod s1957_make_fancy_string;
+mod s2011_final_value_after_operations;
 mod s2044_count_max_or_subsets;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
