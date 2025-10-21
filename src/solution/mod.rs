@@ -106,6 +106,7 @@ mod s3205_max_score;
 mod s3227_does_alice_win;
 mod s3304_kth_character;
 mod s3330_possible_string_count;
+mod s3346_max_frequency;
 mod s3349_has_increasing_subarrays;
 mod s3350_max_increasing_subarrays;
 mod s3397_max_distinct_elements;
