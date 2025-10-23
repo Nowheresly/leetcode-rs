@@ -115,6 +115,7 @@ mod s3408_task_manager;
 mod s3439_max_free_time;
 mod s3440_max_free_time2;
 mod s3446_sort_matrix;
+mod s3461_has_same_digits;
 mod s3477_num_of_unplaced_fruits;
 mod s3484_design_spreadsheet;
 mod s3487_max_sum;
