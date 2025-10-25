@@ -61,6 +61,7 @@ mod s1504_num_sub_mat;
 mod s1518_num_water_bottles;
 mod s1582_num_special;
 mod s1625_find_lex_smallest_string;
+mod s1716_total_money;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
 mod s1957_make_fancy_string;
