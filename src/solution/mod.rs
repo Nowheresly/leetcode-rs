@@ -59,6 +59,7 @@ mod s1488_avoid_flood;
 mod s1493_longest_subarray;
 mod s1504_num_sub_mat;
 mod s1518_num_water_bottles;
+mod s1526_min_number_operations;
 mod s1582_num_special;
 mod s1625_find_lex_smallest_string;
 mod s1716_total_money;
