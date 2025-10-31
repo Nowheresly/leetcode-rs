@@ -109,6 +109,7 @@ mod s3201_maximum_length;
 mod s3202_maximum_length;
 mod s3205_max_score;
 mod s3227_does_alice_win;
+mod s3289_get_sneaky_numbers;
 mod s3304_kth_character;
 mod s3330_possible_string_count;
 mod s3346_max_frequency;
