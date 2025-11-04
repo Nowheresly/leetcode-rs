@@ -114,6 +114,7 @@ mod s3217_modified_list;
 mod s3227_does_alice_win;
 mod s3289_get_sneaky_numbers;
 mod s3304_kth_character;
+mod s3318_find_x_sum;
 mod s3330_possible_string_count;
 mod s3346_max_frequency;
 mod s3347_max_frequency;
