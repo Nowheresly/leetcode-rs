@@ -139,4 +139,5 @@ mod s3508_router;
 mod s3516_find_closest;
 mod s3539_magical_sum;
 mod s3541_max_freq_sum;
+mod s3607_process_queries;
 mod s3674_min_operations;
