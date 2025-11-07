@@ -91,6 +91,7 @@ mod s2410_match_players_and_trainers;
 mod s2411_smallest_subarrays;
 mod s2419_longest_subarray;
 mod s2438_product_queries;
+mod s2528_max_power;
 mod s2566_min_max_diff;
 mod s2598_find_smallest_integer;
 mod s2643_row_and_max_ones;
