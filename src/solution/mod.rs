@@ -63,6 +63,7 @@ mod s1518_num_water_bottles;
 mod s1526_min_number_operations;
 mod s1578_min_cost;
 mod s1582_num_special;
+mod s1611_minimum_one_bit_operations;
 mod s1625_find_lex_smallest_string;
 mod s1716_total_money;
 mod s1792_max_average_ratio;
