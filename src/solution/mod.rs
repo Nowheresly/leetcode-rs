@@ -78,6 +78,7 @@ mod s2104_sub_array_ranges;
 mod s2125_number_of_beams;
 mod s2133_check_valid;
 mod s2163_minimum_difference;
+mod s2169_count_operations;
 mod s2197_replace_non_coprimes;
 mod s2210_count_hill_valley;
 mod s2221_triangular_sum;
