@@ -81,6 +81,7 @@ mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
 mod s2125_number_of_beams;
 mod s2133_check_valid;
+mod s2154_find_final_value;
 mod s2163_minimum_difference;
 mod s2169_count_operations;
 mod s2197_replace_non_coprimes;
