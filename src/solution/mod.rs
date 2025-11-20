@@ -28,6 +28,7 @@ mod s0611_triangle_number;
 mod s0654_construct_maximum_binary_tree;
 mod s0679_judge_point24;
 mod s0717_is_one_bit_character;
+mod s0757_intersection_size_two;
 mod s0759_employee_free_time;
 mod s0771_num_jewels_in_stones;
 mod s0778_swim_in_water;
