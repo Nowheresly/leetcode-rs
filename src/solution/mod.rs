@@ -9,6 +9,7 @@ mod s0118_generate;
 mod s0120_triangle;
 mod s0165_compare_version;
 mod s0166_fraction_to_decimal;
+mod s0213_rob;
 mod s0231_power_of_two;
 mod s0258_add_digits;
 mod s0314_vertical_order;
