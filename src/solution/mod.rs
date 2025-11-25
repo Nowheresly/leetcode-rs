@@ -41,6 +41,7 @@ mod s0907_sum_subarray_mins;
 mod s0946_validate_stack_sequences;
 mod s0966_spell_checker;
 mod s0976_largest_perimeter;
+mod s1015_smallest_repunit_div_by_k;
 mod s1018_prefixes_div_by_5;
 mod s1039_min_score_triangulation;
 mod s1133_largest_unique_number;
