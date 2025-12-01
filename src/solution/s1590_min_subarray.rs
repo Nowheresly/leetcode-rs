@@ -9,7 +9,7 @@ impl Solution {
         for i in 0..n {
             sum = (sum + nums[i as usize]) % p;
         }
-        let mut target = sum % p;
+        let target = sum % p;
         if target == 0 {
             return 0;
         }
