@@ -5,6 +5,7 @@ mod s0011_max_area;
 mod s0027_remove_element;
 mod s0033_search;
 mod s0037_solve_sudoku;
+mod s0069_sqrt;
 mod s0118_generate;
 mod s0120_triangle;
 mod s0165_compare_version;
