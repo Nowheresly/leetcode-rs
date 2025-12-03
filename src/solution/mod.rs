@@ -165,4 +165,5 @@ mod s3539_magical_sum;
 mod s3541_max_freq_sum;
 mod s3542_min_operations;
 mod s3607_process_queries;
+mod s3625_count_trapezoids;
 mod s3674_min_operations;
