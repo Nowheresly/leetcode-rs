@@ -149,6 +149,7 @@ mod s3370_smallest_number;
 mod s3381_max_subarray_sum;
 mod s3397_max_distinct_elements;
 mod s3408_task_manager;
+mod s3432_count_partitions;
 mod s3439_max_free_time;
 mod s3440_max_free_time2;
 mod s3446_sort_matrix;
