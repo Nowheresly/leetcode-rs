@@ -70,6 +70,7 @@ mod s1493_longest_subarray;
 mod s1504_num_sub_mat;
 mod s1513_num_sub;
 mod s1518_num_water_bottles;
+mod s1523_count_odds;
 mod s1526_min_number_operations;
 mod s1578_min_cost;
 mod s1582_num_special;
