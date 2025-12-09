@@ -120,6 +120,7 @@ mod s2654_min_operations;
 mod s2749_make_the_integer_zero;
 mod s2785_sort_vowels;
 mod s2787_number_of_ways;
+mod s2824_count_pairs;
 mod s2872_max_k_divisible_components;
 mod s3000_area_of_max_diagonal;
 mod s3003_max_partitions_after_operations;
