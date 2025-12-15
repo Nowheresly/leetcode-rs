@@ -90,6 +90,7 @@ mod s2044_count_max_or_subsets;
 mod s2048_next_beautiful_number;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
+mod s2110_get_descent_periods;
 mod s2125_number_of_beams;
 mod s2133_check_valid;
 mod s2141_max_run_time;
