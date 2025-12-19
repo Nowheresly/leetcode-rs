@@ -88,6 +88,7 @@ mod s2011_final_value_after_operations;
 mod s2043_simple_bank_system;
 mod s2044_count_max_or_subsets;
 mod s2048_next_beautiful_number;
+mod s2092_find_all_people;
 mod s2099_find_subseq_k_largest_sum;
 mod s2104_sub_array_ranges;
 mod s2110_get_descent_periods;
