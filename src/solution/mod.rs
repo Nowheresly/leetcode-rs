@@ -40,6 +40,7 @@ mod s0837_new21_game;
 mod s0898_subarray_bitwise_o_rs;
 mod s0904_total_fruit;
 mod s0907_sum_subarray_mins;
+mod s0944_min_deletion_size;
 mod s0946_validate_stack_sequences;
 mod s0966_spell_checker;
 mod s0976_largest_perimeter;
