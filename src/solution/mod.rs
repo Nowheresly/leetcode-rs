@@ -105,6 +105,7 @@ mod s2197_replace_non_coprimes;
 mod s2210_count_hill_valley;
 mod s2211_count_collisions;
 mod s2221_triangular_sum;
+mod s2229_is_consecutive;
 mod s2257_count_unguarded;
 mod s2264_largest_good_integer;
 mod s2273_remove_anagrams;
