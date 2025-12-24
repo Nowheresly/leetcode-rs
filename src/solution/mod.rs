@@ -134,6 +134,7 @@ mod s3003_max_partitions_after_operations;
 mod s3021_flower_game;
 mod s3025_number_of_pairs;
 mod s3027_number_of_pairs;
+mod s3074_minimum_boxes;
 mod s3100_max_bottles_drunk;
 mod s3136_is_valid;
 mod s3147_maximum_energy;
