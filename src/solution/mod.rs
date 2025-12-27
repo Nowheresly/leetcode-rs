@@ -113,6 +113,7 @@ mod s2300_successful_pairs;
 mod s2327_people_aware_of_secret;
 mod s2348_zero_filled_subarray;
 mod s2353_food_ratings;
+mod s2402_most_booked;
 mod s2410_match_players_and_trainers;
 mod s2411_smallest_subarrays;
 mod s2419_longest_subarray;
