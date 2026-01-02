@@ -49,7 +49,7 @@ fn is_valid(row: usize, col: usize, grid: &Vec<Vec<i32>>) -> bool {
             return false;
         }
     }
-    if (set.len() < 9) {
+    if set.len() < 9 {
         return false;
     }
     // chck diag
