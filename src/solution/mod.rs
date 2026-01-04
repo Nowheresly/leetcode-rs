@@ -69,6 +69,7 @@ mod s1343_num_of_subarrays;
 mod s1351_count_negatives;
 mod s1358_max_events;
 mod s1360_days_between_dates;
+mod s1390_sum_four_divisors;
 mod s1394_find_lucky;
 mod s1411_num_of_ways;
 mod s1437_k_length_apart;
