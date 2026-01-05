@@ -93,6 +93,7 @@ mod s1925_count_triples;
 mod s1930_count_palindromic_subsequence;
 mod s1957_make_fancy_string;
 mod s1970_latest_day_to_cross;
+mod s1975_max_matrix_sum;
 mod s2011_final_value_after_operations;
 mod s2043_simple_bank_system;
 mod s2044_count_max_or_subsets;
