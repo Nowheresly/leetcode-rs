@@ -23,6 +23,7 @@ mod s0415_add_string;
 mod s0417_pacific_atlantic;
 mod s0425_word_squares;
 mod s0474_find_max_form;
+mod s0490_has_path;
 mod s0498_find_diagonal_order;
 mod s0501_find_mode_bin_tree;
 mod s0581_find_unsorted_subarray;
