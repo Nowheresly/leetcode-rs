@@ -7,6 +7,7 @@ mod s0033_search;
 mod s0035_search_insert;
 mod s0037_solve_sudoku;
 mod s0069_sqrt;
+mod s0085_maximal_rectangle;
 mod s0118_generate;
 mod s0120_triangle;
 mod s0165_compare_version;
@@ -201,3 +202,4 @@ mod s3607_process_queries;
 mod s3625_count_trapezoids;
 mod s3652_max_profit;
 mod s3674_min_operations;
+
