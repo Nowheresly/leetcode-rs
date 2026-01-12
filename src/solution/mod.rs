@@ -62,6 +62,7 @@ mod s1196_max_number_of_apples;
 mod s1198_smallest_common_element;
 mod s1208_equal_substring;
 mod s1262_max_sum_div_three;
+mod s1266_min_time_to_visit_all_points;
 mod s1277_count_square;
 mod s1182_shortest_distance_color;
 mod s1290_get_decimal_value;
