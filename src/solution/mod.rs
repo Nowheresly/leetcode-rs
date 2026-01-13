@@ -183,6 +183,7 @@ mod s3432_count_partitions;
 mod s3439_max_free_time;
 mod s3440_max_free_time2;
 mod s3446_sort_matrix;
+mod s3453_separate_squares;
 mod s3461_has_same_digits;
 mod s3477_num_of_unplaced_fruits;
 mod s3484_design_spreadsheet;
