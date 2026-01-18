@@ -22,8 +22,8 @@ impl Solution {
             return -1;
         }
 
-        let MOD = 1_000_000_007;
-        ((max_side * max_side) % MOD) as i32
+        let modu = 1_000_000_007;
+        ((max_side * max_side) % modu) as i32
     }
 }
 

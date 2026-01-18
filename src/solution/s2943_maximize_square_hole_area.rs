@@ -2,7 +2,7 @@
 pub struct Solution {}
 
 impl Solution {
-    pub fn maximize_square_hole_area(n: i32, m: i32, h_bars: Vec<i32>, v_bars: Vec<i32>) -> i32 {
+    pub fn maximize_square_hole_area(_n: i32, _m: i32, h_bars: Vec<i32>, v_bars: Vec<i32>) -> i32 {
         let mut h_bars = h_bars;
         let mut v_bars = v_bars;
         h_bars.sort_unstable();

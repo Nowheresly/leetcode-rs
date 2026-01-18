@@ -39,6 +39,5 @@ mod tests {
     #[test]
     fn test_1() {
         assert_eq!(45, Solution::compute_area(-3, 0, 3, 4, 0, -1, 9, 2));
-        );
     }
 }
