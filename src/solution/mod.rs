@@ -97,6 +97,7 @@ mod s1625_find_lex_smallest_string;
 mod s1716_total_money;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
+mod s1895_largest_magic_square;
 mod s1925_count_triples;
 mod s1930_count_palindromic_subsequence;
 mod s1957_make_fancy_string;
