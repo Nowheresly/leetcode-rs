@@ -28,6 +28,7 @@ mod s0474_find_max_form;
 mod s0490_has_path;
 mod s0498_find_diagonal_order;
 mod s0501_find_mode_bin_tree;
+mod s0507_check_perfect_number;
 mod s0581_find_unsorted_subarray;
 mod s0597_find_lhs;
 mod s0611_triangle_number;
