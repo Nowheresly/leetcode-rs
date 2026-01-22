@@ -200,6 +200,7 @@ mod s3487_max_sum;
 mod s3494_min_time;
 mod s3495_min_operations;
 mod s3005_max_frequency_elements;
+mod s3507_minimum_pair_removal;
 mod s3508_router;
 mod s3512_min_operations;
 mod s3516_find_closest;
