@@ -57,6 +57,7 @@ mod s0976_largest_perimeter;
 mod s1015_smallest_repunit_div_by_k;
 mod s1018_prefixes_div_by_5;
 mod s1039_min_score_triangulation;
+mod s1065_index_pairs;
 mod s1133_largest_unique_number;
 mod s1150_is_majority_element;
 mod s1161_max_level_sum;
