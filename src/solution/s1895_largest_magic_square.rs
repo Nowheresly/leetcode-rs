@@ -5,7 +5,7 @@ impl Solution {
         let m = grid.len();
         let n = grid[0].len();
         let max_square_side= n.min(m);
-        let mut res = 1;
+        let res = 1;
         for k in (2..=max_square_side).rev() {
             for row in 0..=(m-k) {
                 for col in 0..=(n-k) {
