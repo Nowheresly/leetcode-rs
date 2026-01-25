@@ -107,6 +107,7 @@ mod s1930_count_palindromic_subsequence;
 mod s1957_make_fancy_string;
 mod s1970_latest_day_to_cross;
 mod s1975_max_matrix_sum;
+mod s1984_minimum_difference;
 mod s2011_final_value_after_operations;
 mod s2043_simple_bank_system;
 mod s2044_count_max_or_subsets;
@@ -216,4 +217,3 @@ mod s3607_process_queries;
 mod s3625_count_trapezoids;
 mod s3652_max_profit;
 mod s3674_min_operations;
-
