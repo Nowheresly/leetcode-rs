@@ -64,6 +64,7 @@ mod s1161_max_level_sum;
 mod s1166_file_system;
 mod s1196_max_number_of_apples;
 mod s1198_smallest_common_element;
+mod s1200_minimum_abs_difference;
 mod s1208_equal_substring;
 mod s1262_max_sum_div_three;
 mod s1266_min_time_to_visit_all_points;
