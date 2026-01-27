@@ -216,5 +216,6 @@ mod s3577_count_permutations;
 mod s3606_validate_coupons;
 mod s3607_process_queries;
 mod s3625_count_trapezoids;
+mod s3650_min_cost;
 mod s3652_max_profit;
 mod s3674_min_operations;
