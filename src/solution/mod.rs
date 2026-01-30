@@ -7,6 +7,7 @@ mod s0033_search;
 mod s0035_search_insert;
 mod s0037_solve_sudoku;
 mod s0069_sqrt;
+mod s0070_climb_stairs;
 mod s0085_maximal_rectangle;
 mod s0118_generate;
 mod s0120_triangle;
@@ -221,4 +222,5 @@ mod s3650_min_cost;
 mod s3651_min_cost;
 mod s3652_max_profit;
 mod s3674_min_operations;
+
 
