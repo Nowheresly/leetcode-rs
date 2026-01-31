@@ -37,6 +37,7 @@ mod s0654_construct_maximum_binary_tree;
 mod s0679_judge_point24;
 mod s0712_minimum_delete_sum;
 mod s0717_is_one_bit_character;
+mod s0744_next_greatest_letter;
 mod s0756_pyramid_transition;
 mod s0757_intersection_size_two;
 mod s0759_employee_free_time;
@@ -222,5 +223,3 @@ mod s3650_min_cost;
 mod s3651_min_cost;
 mod s3652_max_profit;
 mod s3674_min_operations;
-
-
