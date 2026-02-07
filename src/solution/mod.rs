@@ -101,6 +101,7 @@ mod s1582_num_special;
 mod s1590_min_subarray;
 mod s1611_minimum_one_bit_operations;
 mod s1625_find_lex_smallest_string;
+mod s1653_minimum_deletions;
 mod s1716_total_money;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
