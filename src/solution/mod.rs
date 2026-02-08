@@ -33,6 +33,7 @@ mod s0507_check_perfect_number;
 mod s0581_find_unsorted_subarray;
 mod s0597_find_lhs;
 mod s0611_triangle_number;
+mod s0651_max_a;
 mod s0654_construct_maximum_binary_tree;
 mod s0679_judge_point24;
 mod s0712_minimum_delete_sum;
