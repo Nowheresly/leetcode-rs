@@ -25,6 +25,7 @@ mod s0405_to_hex;
 mod s0415_add_string;
 mod s0417_pacific_atlantic;
 mod s0425_word_squares;
+mod s0441_arrange_coins;
 mod s0474_find_max_form;
 mod s0490_has_path;
 mod s0498_find_diagonal_order;
