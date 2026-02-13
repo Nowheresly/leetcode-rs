@@ -232,5 +232,6 @@ mod s3651_min_cost;
 mod s3652_max_profit;
 mod s3674_min_operations;
 mod s3713_longest_balanced;
+mod s3714_longest_balanced;
 mod s3719_longest_balanced;
 mod s3754_sum_and_multiply;
