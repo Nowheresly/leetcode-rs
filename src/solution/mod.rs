@@ -46,6 +46,7 @@ mod s0759_employee_free_time;
 mod s0766_is_toeplitz_matrix;
 mod s0771_num_jewels_in_stones;
 mod s0778_swim_in_water;
+mod s0799_champagne_tower;
 mod s0812_largest_triangle_area;
 mod s0836_is_rectangle_overlap;
 mod s0837_new21_game;
