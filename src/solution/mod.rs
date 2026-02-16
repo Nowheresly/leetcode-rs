@@ -28,6 +28,7 @@ mod s0422_valid_word_squares;
 mod s0425_word_squares;
 mod s0441_arrange_coins;
 mod s0474_find_max_form;
+mod s0495_find_poisoned_duration;
 mod s0490_has_path;
 mod s0498_find_diagonal_order;
 mod s0501_find_mode_bin_tree;
