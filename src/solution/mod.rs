@@ -41,6 +41,7 @@ mod s0651_max_a;
 mod s0654_construct_maximum_binary_tree;
 mod s0679_judge_point24;
 mod s0693_has_alternating_bits;
+mod s0696_count_binary_substrings;
 mod s0712_minimum_delete_sum;
 mod s0717_is_one_bit_character;
 mod s0744_next_greatest_letter;
