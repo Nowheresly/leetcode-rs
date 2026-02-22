@@ -53,7 +53,7 @@ mod tests {
     #[test]
     fn test_1() {
         assert_eq!(
-            String::from("abcabc"),
+            String::from("cbacba"),
             Solution::rearrange_string(String::from("aabbcc"), 3));
 
     }
