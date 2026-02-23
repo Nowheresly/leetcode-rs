@@ -99,6 +99,7 @@ mod s1390_sum_four_divisors;
 mod s1394_find_lucky;
 mod s1411_num_of_ways;
 mod s1437_k_length_apart;
+mod s1461_has_all_codes;
 mod s1475_final_prices;
 mod s1488_avoid_flood;
 mod s1493_longest_subarray;
