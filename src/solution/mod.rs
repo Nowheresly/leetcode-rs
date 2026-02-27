@@ -186,6 +186,7 @@ mod s3075_maximum_happiness_sum;
 mod s3100_max_bottles_drunk;
 mod s3136_is_valid;
 mod s3147_maximum_energy;
+mod s3178_number_of_child;
 mod s3186_maximum_total_damage;
 mod s3195_minimum_area;
 mod s3197_minimum_sum;
