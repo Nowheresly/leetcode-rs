@@ -111,6 +111,7 @@ mod s1513_num_sub;
 mod s1518_num_water_bottles;
 mod s1523_count_odds;
 mod s1526_min_number_operations;
+mod s1545_find_kth_bit;
 mod s1578_min_cost;
 mod s1582_num_special;
 mod s1590_min_subarray;
