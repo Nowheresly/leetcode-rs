@@ -121,6 +121,7 @@ mod s1653_minimum_deletions;
 mod s1689_min_partitions;
 mod s1716_total_money;
 mod s1758_min_operations;
+mod s1784_check_ones_segment;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
 mod s1877_min_pair_sum;
