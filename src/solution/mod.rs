@@ -68,6 +68,7 @@ mod s0960_min_deletion_size;
 mod s0961_repeated_n_times;
 mod s0966_spell_checker;
 mod s0976_largest_perimeter;
+mod s1009_bitwise_complement;
 mod s1013_can_three_parts_equal_sum;
 mod s1015_smallest_repunit_div_by_k;
 mod s1018_prefixes_div_by_5;
