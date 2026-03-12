@@ -136,6 +136,7 @@ mod s1970_latest_day_to_cross;
 mod s1975_max_matrix_sum;
 mod s1980_find_different_binary_string;
 mod s1984_minimum_difference;
+mod s2000_reverse_prefix;
 mod s2011_final_value_after_operations;
 mod s2043_simple_bank_system;
 mod s2044_count_max_or_subsets;
