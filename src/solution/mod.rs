@@ -210,6 +210,7 @@ mod s3227_does_alice_win;
 mod s3228_max_operations;
 mod s3234_number_of_substrings;
 mod s3289_get_sneaky_numbers;
+mod s3296_min_number_of_seconds;
 mod s3304_kth_character;
 mod s3314_min_bitwise_array;
 mod s3318_find_x_sum;
