@@ -129,6 +129,7 @@ mod s1784_check_ones_segment;
 mod s1792_max_average_ratio;
 mod s1865_find_sum_pairs;
 mod s1877_min_pair_sum;
+mod s1878_get_biggest_three;
 mod s1888_min_flips;
 mod s1895_largest_magic_square;
 mod s1925_count_triples;
