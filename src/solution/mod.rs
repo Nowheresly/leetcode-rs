@@ -195,6 +195,7 @@ mod s3010_minimum_cost;
 mod s3021_flower_game;
 mod s3025_number_of_pairs;
 mod s3027_number_of_pairs;
+mod s3070_count_submatrices;
 mod s3074_minimum_boxes;
 mod s3075_maximum_happiness_sum;
 mod s3100_max_bottles_drunk;
