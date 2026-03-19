@@ -209,6 +209,7 @@ mod s3197_minimum_sum;
 mod s3201_maximum_length;
 mod s3202_maximum_length;
 mod s3205_max_score;
+mod s3212_number_of_submatrices;
 mod s3217_modified_list;
 mod s3227_does_alice_win;
 mod s3228_max_operations;
