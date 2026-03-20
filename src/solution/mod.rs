@@ -251,6 +251,7 @@ mod s3516_find_closest;
 mod s3539_magical_sum;
 mod s3541_max_freq_sum;
 mod s3542_min_operations;
+mod s3567_min_abs_diff;
 mod s3573_maximum_profit;
 mod s3577_count_permutations;
 mod s3606_validate_coupons;
