@@ -187,6 +187,7 @@ mod s2778_sum_of_squares;
 mod s2785_sort_vowels;
 mod s2787_number_of_ways;
 mod s2824_count_pairs;
+mod s2839_can_be_equal;
 mod s2872_max_k_divisible_components;
 mod s2906_construct_product_matrix;
 mod s2943_maximize_square_hole_area;
