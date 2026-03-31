@@ -121,6 +121,7 @@ mod s1590_min_subarray;
 mod s1594_max_product_path;
 mod s1611_minimum_one_bit_operations;
 mod s1622_fancy;
+mod s1624_max_length_between_equal_characters;
 mod s1625_find_lex_smallest_string;
 mod s1653_minimum_deletions;
 mod s1689_min_partitions;
