@@ -239,6 +239,7 @@ mod s3379_construct_transformed_array;
 mod s3381_max_subarray_sum;
 mod s3397_max_distinct_elements;
 mod s3408_task_manager;
+mod s3418_maximum_amount;
 mod s3432_count_partitions;
 mod s3439_max_free_time;
 mod s3440_max_free_time2;
